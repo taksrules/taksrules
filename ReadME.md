@@ -2,11 +2,13 @@
 
 ## 🌟 Software Engineer | Tech Enthusiast | Lifelong Learner
 
-I'm a dedicated software engineer with a passion for creating impactful and user-centered digital experiences. My journey in tech is driven by curiosity, continuous learning, and a desire to build products that not only solve problems but also bring joy to users. Currently, I'm advancing my Java skills and exploring new ways to make a difference in the tech space.
+I'm a dedicated software engineer with a passion for creating impactful and user-centered digital experiences. My journey in tech is driven by curiosity, continuous learning, and a desire to build products that solve real-world problems. Currently, I'm advancing my Java skills and exploring new ways to make a difference in the tech space.
 
 - 🌍 **Location:** Harare, Zimbabwe
 - ✉️ **Contact:** [takura.mukaro@outlook.com](mailto:takura.mukaro@outlook.com)
 - 🧠 **Currently Learning:** Java (Java Certification in progress)
+- 🎓 **Academic Background:** Bachelor’s Degree in Computer Science
+- 📜 **Certifications:** *In Progress* - AWS Certified Cloud Practitioner
 - 🤝 **Looking to Collaborate On:** Machine Learning, Digital Image Processing, Web Development
 - ⚡ **Fun Fact:** I believe in teamwork and love to contribute to dynamic, innovative projects!
 
@@ -14,19 +16,45 @@ I'm a dedicated software engineer with a passion for creating impactful and user
 
 ### 🚀 Skills & Technologies
 
-<p align="left">
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-</p>
+With a comprehensive technical background, I specialize in both frontend and backend development, mobile applications, and DevOps.
+
+**Languages:** Java, JavaScript, TypeScript, Python, PHP, C, C++  
+**Backend Frameworks:** NestJS, Django, Laravel  
+**Frontend Frameworks:** ReactJS, Angular, HTML5, CSS3, Tailwind CSS  
+**Mobile Development:** React Native, Java for Android  
+**Database Technologies:** PostgreSQL, MySQL, Firebase, TypeORM  
+**DevOps & Deployment:** Docker, Jenkins, PM2, cPanel, Firebase  
+**Testing:** API Testing, Manual and Automation Testing (Postman, UAT, Agile)  
+**Project Management:** Agile (Scrum), Azure DevOps  
+
+---
+
+### 💼 Professional Experience
+
+**Choto App**  
+*Software Engineer (Microservices, Backend Development)*  
+- Designed a scalable microservices architecture using NestJS, RabbitMQ, and Traefik.
+- Developed essential components for asset rentals, agent and user management, and payment processing.
+- Utilized Docker for containerization, creating a robust, highly available infrastructure for production.
+
+**Tango Payments**  
+*Backend Developer*  
+- Developed and maintained backend API for Tango Payments.
+- Deployed on DigitalOcean with Nginx and PM2 for process management.
+- Enhanced platform security and reliability to support seamless transactions.
+
+**Event Web App**  
+*Full-Stack Developer (React, TypeScript, Supabase)*  
+- Built a dynamic event management web app with responsive UI components using Tailwind CSS.
+- Developed secure authentication flows and implemented custom date range pickers.
+
+---
+
+### 🧩 Personal Projects
+
+**Portfolio Website**  
+- Designed and developed a personal portfolio to showcase my projects and skills.
+- Built with a focus on modern design and responsive UI.
 
 ---
 
