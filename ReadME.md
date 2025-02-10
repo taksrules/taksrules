@@ -1,78 +1,86 @@
-# Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Takura Mukaro
+# Hi there! 👋 I'm **Takura Mukaro**  
 
-## 🌟 Software Engineer | Tech Enthusiast | Lifelong Learner
+## 🌟 **Software Engineer | API & Integration Specialist | Cloud Enthusiast**  
 
-I'm a dedicated software engineer with a passion for creating impactful and user-centered digital experiences. My journey in tech is driven by curiosity, continuous learning, and a desire to build products that solve real-world problems. Currently, I'm advancing my Java skills and exploring new ways to make a difference in the tech space.
+I’m an experienced **Software Engineer** with a passion for **backend development, API integrations, microservices, and cloud computing**. My journey in tech is driven by **problem-solving, continuous learning, and building scalable, high-performance systems**.  
 
-- 🌍 **Location:** Harare, Zimbabwe
-- ✉️ **Contact:** [takura.mukaro@outlook.com](mailto:takura.mukaro@outlook.com)
-- 🧠 **Currently Learning:** Java (Java Certification in progress)
-- 🎓 **Academic Background:** Bachelor’s Degree in Computer Science
-- 📜 **Certifications:** *In Progress* - AWS Certified Cloud Practitioner
-- 🤝 **Looking to Collaborate On:** Machine Learning, Digital Image Processing, Web Development
-- ⚡ **Fun Fact:** I believe in teamwork and love to contribute to dynamic, innovative projects!
+🚀 Currently **pursuing Java Certification** and **AWS Cloud Practitioner Certification** to deepen my expertise in cloud-based solutions and enterprise software.  
 
 ---
 
-### 🚀 Skills & Technologies
-
-With a comprehensive technical background, I specialize in both frontend and backend development, mobile applications, and DevOps.
-
-**Languages:** Java, JavaScript, TypeScript, Python, PHP, C, C++  
-**Backend Frameworks:** NestJS, Django, Laravel  
-**Frontend Frameworks:** ReactJS, Angular, HTML5, CSS3, Tailwind CSS  
-**Mobile Development:** React Native, Java for Android  
-**Database Technologies:** PostgreSQL, MySQL, Firebase, TypeORM  
-**DevOps & Deployment:** Docker, Jenkins, PM2, cPanel, Firebase  
-**Testing:** API Testing, Manual and Automation Testing (Postman, UAT, Agile)  
-**Project Management:** Agile (Scrum), Azure DevOps  
+## 🌍 About Me
+- 📍 **Location:** Harare, Zimbabwe  
+- ✉️ **Contact:** [takura.mukaro@outlook.com](mailto:takura.mukaro@outlook.com)  
+- 🎓 **Education:** Bachelor’s Degree in Software Engineering (Zhejiang University of Technology)  
+- 🏆 **Awards:** Dean’s Scholarship Winner, Zhejiang Provincial Government Scholarship  
+- 📜 **Certifications:**  
+  - *In Progress* – **AWS Certified Cloud Practitioner**  
+  - Stanford University **DeepMind Machine Learning Specialization**  
+  - Scrum: Agile Project Management & Requirements Gathering  
 
 ---
 
-### 💼 Professional Experience
-
-**Choto App**  
-*Software Engineer (Microservices, Backend Development)*  
-- Designed a scalable microservices architecture using NestJS, RabbitMQ, and Traefik.
-- Developed essential components for asset rentals, agent and user management, and payment processing.
-- Utilized Docker for containerization, creating a robust, highly available infrastructure for production.
-
-**Tango Payments**  
-*Backend Developer*  
-- Developed and maintained backend API for Tango Payments.
-- Deployed on DigitalOcean with Nginx and PM2 for process management.
-- Enhanced platform security and reliability to support seamless transactions.
-
-**Event Web App**  
-*Full-Stack Developer (React, TypeScript, Supabase)*  
-- Built a dynamic event management web app with responsive UI components using Tailwind CSS.
-- Developed secure authentication flows and implemented custom date range pickers.
+## 🚀 Tech Stack & Skills
+- **Languages:** Java, JavaScript, TypeScript, Python, C++  
+- **Backend Development:** NestJS, Django, Laravel, Flask, Express.js, Spring Boot  
+- **Frontend Development:** ReactJS, Angular, HTML5, CSS3, Tailwind CSS  
+- **Mobile Development:** React Native, Java for Android  
+- **Databases:** PostgreSQL, MySQL, Firebase, MongoDB, TypeORM  
+- **Cloud & DevOps:** AWS, DigitalOcean, Docker, Kubernetes, Jenkins, PM2, Nginx  
+- **Testing:** Postman, API Testing, Unit & Integration Testing, UAT  
+- **Project Management:** Agile (Scrum, Kanban), Azure DevOps, Jira  
 
 ---
 
-### 🧩 Personal Projects
+## 💼 Professional Experience
+### 💻 **Software Engineer | AfriSight** *(Current Role)*  
+- Led **migration & modernization** of AfriSight’s platform, improving efficiency by **40%**.  
+- Integrated **payment APIs** (Reloadly, Flutterwave, PayNow, Stripe) for secure transactions.  
+- Developed **RESTful APIs** and implemented **key signing & encryption** for data security.  
+- Deployed and managed **microservices** using **Docker & DigitalOcean Cloud**.  
+- Worked with **RabbitMQ & Traefik** to optimize communication in a microservices architecture.  
 
-**Portfolio Website**  
-- Designed and developed a personal portfolio to showcase my projects and skills.
-- Built with a focus on modern design and responsive UI.
+### 💻 **Software Engineer | Freelance (Remote)**
+- Built a **scalable payment gateway** for **Tango Africa**, increasing **transaction success rates by 25%**.  
+- Configured **auto-scaling cloud deployments** using **DigitalOcean**.  
+- Developed an **AI-powered chatbot** for real estate inquiries using **NLP & WhatsApp API**.  
+
+### 💻 **Software Engineer Intern | Shanghai Art Institute**
+- Developed a **Python-based NFT generation system** using **OpenCV**, contributing to digital art projects.  
 
 ---
 
-### 📬 Connect with Me
+## 🧩 Projects
+- 🚀 **AfriSight Platform Migration** – Migrated legacy system to **microservices**, increasing efficiency by **40%**.  
+- 🚀 **Tango Africa Payment Gateway** – Integrated **multi-payment providers**, boosting reliability by **25%**.  
+- 🚀 **AI-Powered Real Estate Chatbot** – Automated property inquiries via **WhatsApp NLP integration**.  
+- 🚀 **OCR-Based Homework Assistant** – Developed an **AI-powered OCR tool** to assist students.  
+- 🚀 **HR Management System** – Built a **full-stack HR solution** using **ReactJS & NestJS**.  
 
+---
+
+## 📬 Let's Connect
 <p align="left">
-  <a href="https://www.github.com/taksrules" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="http://www.instagram.com/taksrules" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/takura-mukaro-931a44210" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://www.twitter.com/taksrules" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+  <a href="https://github.com/taksrules" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/takura-mukaro-931a44210" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://twitter.com/taksrules" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+<p align="center">
+  <a href="http://www.github.com/taksrules"><img src="https://github-readme-stats.vercel.app/api?username=taksrules&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub Stats" /></a>
+</p>
 
-<a href="http://www.github.com/taksrules"><img src="https://github-readme-stats.vercel.app/api?username=taksrules&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="taksrules's GitHub stats" /></a>
+<p align="center">
+  <a href="http://www.github.com/taksrules"><img src="https://github-readme-streak-stats.herokuapp.com/?user=taksrules&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</p>
 
-<a href="http://www.github.com/taksrules"><img src="https://activity-graph.herokuapp.com/graph?username=taksrules&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<p align="center">
+  <a href="https://github.com/taksrules" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taksrules&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+</p>
 
-<a href="https://github.com/taksrules" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taksrules&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+---
+
+### 🚀 **Let's build something amazing together!**
