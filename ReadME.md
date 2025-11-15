@@ -15,7 +15,7 @@ I also seek to develop **evidence-based solutions to industry gaps** through res
 
 - ✉️ **Contact:** [takura.mukaro@outlook.com](mailto:takura.mukaro@outlook.com)  
 - 🎓 **Education:** Bachelor’s Degree in Software Engineering  
-  *Zhejiang University of Technology, China (2018–2022)* — GPA: **3.46 / 4.0**  
+  *Zhejiang University of Technology, China (2018–2022)* — GPA: **3.46 **  
 - 🏆 **Awards:**  
   - Dean’s Scholarship Winner (2019, 2021)  
   - Zhejiang Provincial Government Scholarship (2019, 2021)  
