@@ -23,7 +23,9 @@ TypeScript • Python • Java • NestJS • React • LangChain • Docker •
 **Email:** takura.mukaro@outlook.com  
 **LinkedIn:** [takura-mukaro](https://www.linkedin.com/in/takura-mukaro-931a44210)  
 **Twitter:** [@taksrules](https://twitter.com/taksrules)
-**Website:** [@taksrules](https://www.takuramukaro.site/)
+**Website:** [@NewPortfolio](https://www.takuramukaro.site/)
+**Nerva Studios** [@Nervastudios](https://www.nervastudios.com)
+**Tenderly** [@Tenderly](https://www.tenderly.space)
 
 ---
 
